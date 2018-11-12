@@ -1,0 +1,42 @@
+---
+layout: post
+title: "Joint Laver diamonds"
+math: true
+---
+
+Let me tell you what I've been working on recently. The fundamental idea arose from the following fact about Laver functions on a supercompact cardinal, which was given to me as an exercise at some point by Joel Hamkins:
+
+> **Theorem.** If $\kappa$ is supercompact then there are $2^\kappa$ (the maximal possible number) many Laver functions $\langle \ell_\alpha;\alpha<2^\kappa\rangle$ such that this sequence is jointly Laver, i.e. such that for any $\theta$ and any sequence $\langle x_\alpha;\alpha<2^\kappa\rangle$ of sets in $H_{\theta^+}$ there is a $\theta$-supercompactness embedding $j\colon V\to M$ with critical point $\kappa$ which satisfies $j(\ell_\alpha)(\kappa)=x_\alpha$ for all $\alpha$.
+
+It is not difficult to see that this is true; furthermore, it will be interesting to give an alternative proof of the weaker claim that there is a jointly Laver sequence of length $\kappa$. This can be accomplished by simply coding everything appropriately. Specifically, start with a single Laver function $\ell\colon \kappa\to V_\kappa$ and let $\ell_\alpha(\xi)=\ell(\xi)(\alpha)$. Given a sequence $\vec{x}=\langle x_\alpha;\alpha<\kappa\rangle$ in $H_{\theta^+}$, we fix a $\theta$-supercompactness embedding $j$ such that $j(\ell)(\kappa)=\vec{x}$. It is then easy to check that $j(\ell_\alpha)(\kappa)=x_\alpha$ for all $\alpha$.
+For the $2^\kappa$ length case, we reindex our sequences to use elements of $\mathcal{P}(\kappa)$ instead of $2^\kappa$. Still working with a given Laver function $\ell$ we define $\ell_A(\xi)=\ell(\xi)(A\cap \xi)$ for $A\in\mathcal{P}(\kappa)$. Given a sequence $\vec{x}=\langle x_A;A\in\mathcal{P}(\kappa)\rangle$ in $H_{\theta^+}$ we fix a $(2^\kappa + \theta)$-supercompactness embedding $j$ such that $j(\ell)(\kappa)=\vec{x}$ and check that this $j$ makes everything work as required. If we had $\theta<2^\kappa$ we should, at the end, also factor our a supercompactness embedding of the appropriate degree.
+
+There are two things we should take away from this proof:
+
+The short case was fairly easy, requiring merely some coding. This suggests that whenever we have any Laver function-like object on a cardinal $\kappa$ we should have $\kappa$ many joint such objects, whatever that might mean;
+In the long case we seemingly only used the $(2^\kappa+\theta)$-supercompactness of $\kappa$. If we then consider only partially supercompact cardinals, this raises the question whether there is any strength in having a length $2^\kappa$ jointly Laver sequence or whether such things just always exist (provided there is an appropriate Laver function in the first place).
+As alluded to in point 1, questions about jointly Laver sequences make sense whenever a Laver function-like object makes sense. This ties together nicely with the various Laver diamond principles, introduced for many large cardinals in an (as of yet unpublished) [paper](http://arxiv.org/pdf/math/0211419v1.pdf) by Hamkins. Building on his work and also on the work of Apter--Cummings--Hamkins on the number of measures problem, some answers have been forthcoming.
+
+Let me illustrate the main results about these joint Laver sequences in the case of measurable cardinals, where many of the interesting phenomena already occur. The supercompact case is fairly similar, with some complications.
+
+To be concrete, if $\kappa$ is measurable we call a function $\ell\colon \kappa\to V_\kappa$ a Laver diamond (for measurability) if for every $x\in H_{\kappa^+}$ there is an elementary embedding $j\colon V\to M$ with critical point $\kappa$ such that $j(\ell)(\kappa)=x$. We call a sequence $\langle \ell_\alpha;\alpha<\beta\rangle$ a joint Laver diamond sequence (for measurability) if for every sequence $\langle x_\alpha;\alpha<\beta\rangle$ of sets in $H_{\kappa^+}$ there is an elementary embedding $j\colon V\to M$ with critical point $\kappa$ such that $j(\ell_\alpha)(\kappa)=x_\alpha$ for every $\alpha$.
+
+> **Theorem.** If $\kappa$ is measurable and has a Laver diamond then it has a joint Laver diamond sequence of length $\kappa$. In general, if $\kappa$ is measurable then there is a forcing extensions in which $\kappa$ remains measurable and has a joint Laver diamond sequence of length $\kappa$.
+
+This is quite simple. If there is a Laver diamond for $\kappa$ then we can simply do the coding we did before and get a joint Laver diamond sequence. The point is that if there is no Laver diamond for $\kappa$ we can always force to add one. This can be done in one of several (nonequivalent) ways, e.g. by Woodin's fast function forcing or by first doing a preparatory forcing and then adding a Cohen subset to $\kappa$.
+
+> **Theorem.** If $\kappa$ is measurable then there is a forcing extension in which $\kappa$ remains measurable and has a joint Laver diamond sequence of length $2^\kappa$.
+
+This builds on the construction of adding a single Laver diamond. We first force the GCH to hold at $\kappa$ if necessary. We next prepare by doing a Silver-style iteration up to $\kappa$ where we add $\gamma^+$ many Cohen subsets to inaccessible $\gamma$. Finally we add $\kappa^+$ many Cohen subsets to $\kappa$. An argument as in the previous case shows that the Cohen subsets of $\kappa$ can be decoded into a joint Laver diamond sequence, and since GCH still holds at $\kappa$ at the end, there are $2^\kappa$ many. The crucial issue is showing that $\kappa$ remains measurable after this forcing. The usual lifting argument via master conditions doesn't work since the generic is too big to be distilled down to a master condition. To solve this we use what has been called in the literature the "master filter argument", where instead of building a single master condition we build a descending sequence of partial master conditions, which encode larger and larger pieces of the generic. The construction is quite sensitive and exploits, among other things, the continuity of the embedding $j$ at $\kappa^+$ (this becomes relevant in the supercompactness argument).
+
+The fact that in the resulting model GCH holds in $\kappa$ is unavoidable without stronger hypotheses. The following question is still open.
+
+> **Question.** Given a model where $\kappa$ is measurable, GCH fails at $\kappa$ and $\kappa$ has a Laver diamond, is there a forcing extension preserving these facts where $\kappa$ has a joint Laver diamond sequence of length $2^\kappa$?
+
+The final result on measurables is a separation of the conclusions of the previous two theorems. Therefore, while having a joint Laver diamond sequence of length $\kappa$ is no weaker in consistency strength than having a joint Laver diamond sequence of length $2^\kappa$, the outright implication still fails.
+
+> **Theorem.** If $\kappa$ is measurable then there is a forcing extension in which $\kappa$ remains measurable and has a joint Laver diamond sequence of length $\kappa$ but no joint Laver diamond sequence of length $\kappa^+$.
+
+The key observation here is that, in order to have a joint Laver diamond sequence of length $\nu$, there must be at least $2^\nu$ many normal measures on $\kappa$, since every binary $\nu$-sequence must be guessed by some embedding and, of course, each embedding corresponds to a single sequence. The argument now proceeds by first forcing to add a Laver diamond to $\kappa$ as before and then using a result of Apter--Cummings--Hamkins by which we can force over a model with a measurable $\kappa$ preserving measurability but making $\kappa$ only carry $\kappa^+$ many normal measures. By our argument before $\kappa$ cannot possibly have a joint Laver diamond sequence of length greater than $\kappa$. It then remains to check that the single Laver diamond survived this final forcing and this gives us a joint Laver diamond sequence of length $\kappa$ as in our first theorem above.
+
+The main gap in these results concerns the lack of control over $2^\kappa$. One would like to be able to push $2^\kappa$ high and still talk about joint Laver diamond sequences of intermediate length. Of course, this requires higher consistency strength than merely measurability, but I would guess that we get equiconsistency at that level again.
