@@ -1,4 +1,4 @@
----
+﻿---
 layout: page
 title: Publications
 permalink: /publications/
@@ -15,10 +15,9 @@ Here is a list of my publications:
   
 ---------------
  
- 
-* **Set-theoretic blockchains** (with J. D. Hamkins, L. D. Klausner, J. Verner, and K. J. Williams), under review, 2018.  
-  [**arχiv**](https://arxiv.org/abs/1808.01509)
-* **Joint diamonds and Laver diamonds**, under review, 2017.  
+* **Joint diamonds and Laver diamonds**, accepted to J. Symb. Log., 2017.  
   [**arχiv**](https://arxiv.org/abs/1708.02145)
-* **A Mitchell-like order for Ramsey and Ramsey-like cardinals** (with E. Carmody and V. Gitman), under review, 2016.  
+* **Set-theoretic blockchains** (with J. D. Hamkins, L. D. Klausner, J. Verner, and K. J. Williams), accepted to Arch. Math. Log., 2018.  
+  [**arχiv**](https://arxiv.org/abs/1808.01509)
+* **A Mitchell-like order for Ramsey and Ramsey-like cardinals** (with E. Carmody and V. Gitman), accepted to Fund. Math., 2016.  
   [**arχiv**](https://arxiv.org/abs/1609.07645)
