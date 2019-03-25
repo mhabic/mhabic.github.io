@@ -1,4 +1,4 @@
-﻿---
+---
 layout: page
 title: Publications
 permalink: /publications/
@@ -14,6 +14,8 @@ Here is a list of my publications:
   [**arχiv**](https://arxiv.org/abs/1705.04422) \|\| [**CUNY Academic Works**](https://academicworks.cuny.edu/gc_etds/2122/)
   
 ---------------
+
+* **Capturing sets of ordinals by normal ultrapowers** (with R. Honzík), submitted, 2019.
  
 * **Joint diamonds and Laver diamonds**, accepted to J. Symb. Log., 2017.  
   [**arχiv**](https://arxiv.org/abs/1708.02145)
