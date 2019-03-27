@@ -1,4 +1,4 @@
----
+﻿---
 layout: page
 title: Publications
 permalink: /publications/
@@ -6,6 +6,8 @@ permalink: /publications/
 
 Here is a list of my publications:
 
+* **Set-theoretic blockchains** (with J. D. Hamkins, L. D. Klausner, J. Verner, and K. J. Williams), Arch. Math. Log., 2019.  
+  [**arχiv**](https://arxiv.org/abs/1808.01509) \|\| [**journal**](https://link.springer.com/article/10.1007%2Fs00153-019-00672-z)
 * **The grounded Martin's axiom**, Math. Log. Quart., 63: 437–453, 2017.  
   [**arχiv**](https://arxiv.org/abs/1610.03862) \|\| [**journal**](http://onlinelibrary.wiley.com/doi/10.1002/malq.201600097/abstract)
 * **Cardinal-recognizing infinite time Turing machines**, in The Nature of Computation. Logic, Algorithms, Applications. 9th Conference on Computability in Europe, CiE 2013, Paola Bonizzoni, Vasco Brattka, Benedikt Löwe, eds., Lecture Notes in Computer Science 7921, Springer (2013), 231–240.  
@@ -19,7 +21,5 @@ Here is a list of my publications:
   [**arχiv**](https://arxiv.org/abs/1902.10638)
 * **Joint diamonds and Laver diamonds**, accepted to J. Symb. Log., 2017.  
   [**arχiv**](https://arxiv.org/abs/1708.02145)
-* **Set-theoretic blockchains** (with J. D. Hamkins, L. D. Klausner, J. Verner, and K. J. Williams), accepted to Arch. Math. Log., 2018.  
-  [**arχiv**](https://arxiv.org/abs/1808.01509)
 * **A Mitchell-like order for Ramsey and Ramsey-like cardinals** (with E. Carmody and V. Gitman), accepted to Fund. Math., 2016.  
   [**arχiv**](https://arxiv.org/abs/1609.07645)
