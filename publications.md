@@ -5,8 +5,11 @@ permalink: /publications/
 ---
 
 Here is a list of my publications:
-
-* **Set-theoretic blockchains** (with J. D. Hamkins, L. D. Klausner, J. Verner, and K. J. Williams), Arch. Math. Log., 2019.  
+* **A Mitchell-like order for Ramsey and Ramsey-like cardinals** (with E. Carmody and V. Gitman), Fund. Math., 248: 1-32, 2020.  
+  [**arχiv**](https://arxiv.org/abs/1609.07645) \|\| [**journal**](https://www.impan.pl/en/publishing-house/journals-and-series/fundamenta-mathematicae/all/248/1/113217/a-mitchell-like-order-for-ramsey-and-ramsey-like-cardinals)
+* **Joint diamonds and Laver diamonds**, J. Symb. Log., 84 (3): 895-928, 2019
+  [**arχiv**](https://arxiv.org/abs/1708.02145) \|\| [**journal**](https://www.cambridge.org/core/journals/journal-of-symbolic-logic/article/abs/joint-diamonds-and-laver-diamonds/D57869E486DDDED1F7C9FB43FE2F03DD)
+* **Set-theoretic blockchains** (with J. D. Hamkins, L. D. Klausner, J. Verner, and K. J. Williams), Arch. Math. Log., 58: 965-997, 2019.  
   [**arχiv**](https://arxiv.org/abs/1808.01509) \|\| [**journal**](https://link.springer.com/article/10.1007%2Fs00153-019-00672-z)
 * **The grounded Martin's axiom**, Math. Log. Quart., 63: 437–453, 2017.  
   [**arχiv**](https://arxiv.org/abs/1610.03862) \|\| [**journal**](http://onlinelibrary.wiley.com/doi/10.1002/malq.201600097/abstract)
@@ -19,7 +22,3 @@ Here is a list of my publications:
 
 * **Capturing sets of ordinals by normal ultrapowers** (with R. Honzík), submitted, 2019.  
   [**arχiv**](https://arxiv.org/abs/1902.10638)
-* **Joint diamonds and Laver diamonds**, accepted to J. Symb. Log., 2017.  
-  [**arχiv**](https://arxiv.org/abs/1708.02145)
-* **A Mitchell-like order for Ramsey and Ramsey-like cardinals** (with E. Carmody and V. Gitman), accepted to Fund. Math., 2016.  
-  [**arχiv**](https://arxiv.org/abs/1609.07645)
