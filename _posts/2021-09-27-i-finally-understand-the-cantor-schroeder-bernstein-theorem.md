@@ -34,7 +34,7 @@ where $A_1=g[B_0\setminus B_1]$. Again, this $h_2$ is onto $B\setminus B_1$, but
 We continue in this way, making better and better approximations of our desired bijection $h$. In the end, the sequence builds a set $A_\infty=\bigcup_n A_n\subseteq A$, and we can define a function   
  
 $$
-h_\infty(a)=\begin{cases} g^{-1}(a);& a\in C\\ f(a);& a\notin C\end{cases}.
+h_\infty(a)=\begin{cases} g^{-1}(a);& a\in A_\infty\\ f(a);& a\notin A_\infty\end{cases}.
 $$    
 
 It is then a routine (but good) exercise in set algebra to check that this really does define a bijection. $\square$
