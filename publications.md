@@ -5,6 +5,10 @@ permalink: /publications/
 ---
 
 Here is a list of my publications:
+* **Writing in the Zones for the Reading of Proofs in the Mathematics Classroom: A How-To Guide** (with K. Minden), Early College Folio, 3: 49-58, 2024.
+  [**journal**](https://digitalcommons.bard.edu/earlycollegefolio/vol3/iss1/5/)
+* **Capturing sets of ordinals by normal ultrapowers** (with R. Honzík), Ann. Pure Appl. Logic, 174, 2023.
+  [**arχiv**](https://arxiv.org/abs/1902.10638) \|\| [**journal**](https://doi.org/10.1016/j.apal.2023.103261)
 * **A Mitchell-like order for Ramsey and Ramsey-like cardinals** (with E. Carmody and V. Gitman), Fund. Math., 248: 1-32, 2020.  
   [**arχiv**](https://arxiv.org/abs/1609.07645) \|\| [**journal**](https://www.impan.pl/en/publishing-house/journals-and-series/fundamenta-mathematicae/all/248/1/113217/a-mitchell-like-order-for-ramsey-and-ramsey-like-cardinals)
 * **Joint diamonds and Laver diamonds**, J. Symb. Log., 84 (3): 895-928, 2019     
@@ -20,5 +24,4 @@ Here is a list of my publications:
   
 ---------------
 
-* **Capturing sets of ordinals by normal ultrapowers** (with R. Honzík), submitted, 2019.  
-  [**arχiv**](https://arxiv.org/abs/1902.10638)
+* **More nonamalgamable forcing extensions ** (with C. Weng and C. Zhang), in preparation, 2024.

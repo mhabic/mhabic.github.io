@@ -12,7 +12,7 @@ I am currently an assistant professor at [Bard College at Simon's Rock](https://
 
 I completed my PhD in Mathematics with [Joel David Hamkins](http://jdh.hamkins.org/) at the Graduate Center, CUNY, in 2017.
 
-Here is my [CV]({{site.url}}/assets/cv.pdf).
+Here is my [CV]({{site.url}}/assets/cvnew.pdf).
 
 Here you can track my activity on MathOverflow and MathStackexchange:
 
