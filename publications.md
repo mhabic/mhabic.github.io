@@ -24,4 +24,4 @@ Here is a list of my publications:
   
 ---------------
 
-* **More nonamalgamable forcing extensions ** (with C. Weng and C. Zhang), in preparation, 2024.
+* **More nonamalgamable forcing extensions** (with C. Weng and C. Zhang), in preparation, 2024.
