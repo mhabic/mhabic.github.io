@@ -8,7 +8,7 @@ layout: home
 <img align="right" src="{{site.url}}/assets/pic2.png">
 Miha E. Habič is a mathematician interested in set theory, primarily forcing, large cardinals, and connections to computability theory. I also enjoy thinking about other topics in mathematical logic.
 
-I am currently an assistant professor at [Bard College at Simon's Rock](https://simons-rock.edu/).
+I am currently an assistant professor at [Bard College at Simon's Rock](https://simons-rock.edu/). In the Fall of 2025 I will take up a teaching post at [Proof School](https://www.proofschool.org/).
 
 I completed my PhD in Mathematics with [Joel David Hamkins](http://jdh.hamkins.org/) at the Graduate Center, CUNY, in 2017.
 
