@@ -5,6 +5,8 @@ permalink: /publications/
 ---
 
 Here is a list of my publications:
+* **More nonamalgamable forcing extensions** (with C. Weng and C. Zhang), submitted, 2025.  
+  [**arχiv**](https://doi.org/10.48550/arXiv.2505.22372)
 * **Writing in the Zones for the Reading of Proofs in the Mathematics Classroom: A How-To Guide** (with K. Minden), Early College Folio, 3: 49-58, 2024.  
   [**journal**](https://digitalcommons.bard.edu/earlycollegefolio/vol3/iss1/5/)
 * **Capturing sets of ordinals by normal ultrapowers** (with R. Honzík), Ann. Pure Appl. Logic, 174, 2023.  
@@ -23,5 +25,3 @@ Here is a list of my publications:
   [**arχiv**](https://arxiv.org/abs/1705.04422) \|\| [**CUNY Academic Works**](https://academicworks.cuny.edu/gc_etds/2122/)
   
 ---------------
-
-* **More nonamalgamable forcing extensions** (with C. Weng and C. Zhang), in preparation, 2024.
